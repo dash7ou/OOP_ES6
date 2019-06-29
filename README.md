@@ -17,4 +17,5 @@ in this section i explain everything about OOP ES6
     
     8.Overriding method
     
-  ## Dash Zou :)
+## Dash Zou :)
+To connect me: [instegram](https://www.instagram.com/dashzou/)
