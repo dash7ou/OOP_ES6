@@ -2,7 +2,7 @@
 
 in this section i explain everything about OOP ES6 
 
-To be clear JavaScript script language not a oop language so when we say class this is mean function() in ES5 object
+To be clear JavaScript is a script language not a oop language like Java and python, so when we say class this is mean function() in ES5 object
 becouse es6 model transform to es5 so class and inheritance in es6 like a sweet to es5 to be easily..
 
     1.write class in ES6
