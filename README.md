@@ -21,5 +21,5 @@ becouse es6 model transform to es5 so class and inheritance in es6 like a sweet 
     
     8.Overriding method
     
-## Dash Zou :)
-To connect me: [instegram](https://www.instagram.com/dashzou/)
+##
+To connect me instgram: [Dash Zou :)](https://www.instagram.com/dashzou/)
